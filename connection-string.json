@@ -1,3 +1,3 @@
   "ConnectionStrings": {
-    "DefaultConnection": "Server=MD-WALIUL-ISLAM\\SQLEXPRESS;Database=LinkWebDB;Trusted_Connection=True;MultipleActiveResultSets=true;Encrypt=false;"
+    "DefaultConnection": "Server=MD-WALIUL-ISLAM\\SQLEXPRESS;Database=TestDB;Trusted_Connection=True;MultipleActiveResultSets=true;Encrypt=false;"
   }
